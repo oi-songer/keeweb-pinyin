@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "keeweb-pinyin",
+  "description": "Let people could search chinese words with pinyin letters.",
+  "author": {
+    "name": "songer",
+    "email": "songer@songer.xyz",
+    "url": "http://songer.xyz"
+  },
+  "resources": {
+    "js": true
+  },
+  "license": "MIT",
+  "url": "https://github.com/oi-songer/keeweb-pinyin",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzvn146sQfTyCqs3zN80Q5dJCFCGlpEbAMF+DRwMcaSAGXkWblmiAXdNNBpsllMINGSfGYpqAoL8OCe44/avLhZYO41pnfTUxaKf+791I070N89d5iKUmDTkPXm9NyK/vUXjLXU6bBqJwmnq549V9IjH2nuc3lA9dRS8vWq1glqNvua7Kz1A2TFpdlFu4fLio/fSeiGBh9lIiGVDMtBVHEJ13wuzpH2FlGooHUOAR1op80lyvsQSMG78cio0E+aKQaIM7GdKUeYMgs6oLhh8UfXLgAkvLhLWoz/yUEhVyFTjbPzNNgc24Z7Gn5n1HJkoB3+QmCkwMxH/KxKfkOkrw3QIDAQAB"
+}
